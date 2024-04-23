@@ -14,4 +14,8 @@ public class USguy {
 		System.out.println("Im Indian guy and Nice to meet you");
 	}
 
+	@Test
+	public void Demo2() {
+		System.out.println("Im US guy and Nice to meet you");
+	}
 }
